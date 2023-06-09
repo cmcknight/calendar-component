@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css?family=Enriqueta%3A400%2C700%7COpen+Sans%3A400%2C700&subset=latin%2Clatin-ext");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap");
+.calendar-container {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #fefefe;
+  background: #f0f4f4;
+  border: 1px solid #509f36;
+  width: 48rem;
+  max-width: 48rem;
+}
+.calendar-container .calendar-header {
+  background: #509f36;
+}
+.calendar-container .calendar-header .calendar-controls {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+}
+.calendar-container .calendar-header .calendar-controls button {
+  width: 1.5rem;
+  height: 1.5rem;
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #ffffff;
+  background: #e9730c;
+  border: 1px solid #e35e0c;
+  border-radius: 50%;
+}
+.calendar-container .calendar-header .day-header {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  text-align: center;
+  padding: 0.5rem 0;
+}
+.calendar-container .calendar-data {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  grid-template-rows: repeat(5, minmax(0, 1fr));
+  grid-column-gap: 0;
+  grid-row-gap: 0;
+  color: #000000;
+  background: #f0f4f4;
+}
+.calendar-container .calendar-data .grid-date-cell {
+  display: block;
+  position: relative;
+  height: 7rem;
+  padding: 0.5rem;
+  border: 1px solid #509f36;
+  overflow-y: auto;
+  font-size: 90%;
+  line-height: 1.2;
+}
+.calendar-container .calendar-data .grid-date-cell ul {
+  list-style: none;
+}
+.calendar-container .calendar-data .grid-date-cell li {
+  list-style-position: inside;
+  padding: 0.15rem;
+}
+.calendar-container .calendar-data .grid-date-cell li:hover {
+  color: #ffffff;
+  background: #e9730c;
+}
+.calendar-container .calendar-data .grid-date-cell p {
+  width: 1rem;
+  text-align: right;
+  width: 100%;
+  font-weight: bold;
+}/*# sourceMappingURL=calendar.css.map */

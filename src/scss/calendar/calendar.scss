@@ -1,0 +1,98 @@
+  // Google fonts
+  @import url('https://fonts.googleapis.com/css?family=Enriqueta%3A400%2C700%7COpen+Sans%3A400%2C700&subset=latin%2Clatin-ext');
+  @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+
+  $calendar-sans: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  $calendar-serif: 'Merriweather', serif;
+  $calendar-text-color: #fefefe;
+  $calendar-bg-color: #f0f4f4;
+  $calendar-header-bg-color: #509f36;
+  $calendar-btn-color: #ffffff;
+  $calendar-btn-bg-color: #e9730c;
+  $calendar-btn-border-color: #e35e0c;
+  $calendar-border-color: #509f36;
+  $calendar-hover-color: #ffffff;
+  $calendar-hover-bg-color: #e9730c;
+  $calendar-day-text-color: #000000;
+  $calendar-day-bg-color: #f0f4f4;
+
+  .calendar-container {
+    font-family: $calendar-sans;
+    color: $calendar-text-color;
+    background: $calendar-bg-color;
+    border: 1px solid $calendar-border-color;
+    width: 48rem;
+    max-width: 48rem;
+
+    & .calendar-header {
+      background: $calendar-header-bg-color;
+
+      & .calendar-controls {
+        display: flex;
+        justify-content: space-between;
+        padding: .5rem 1rem;
+        font-size: 1.25rem;
+
+        & button {
+          width: 1.5rem;
+          height: 1.5rem;
+          font-size: 1.25rem;
+          font-weight: bold;
+          color: $calendar-btn-color;
+          background: $calendar-btn-bg-color;
+          border: 1px solid $calendar-btn-border-color;
+          border-radius: 50%;
+        }
+      }
+
+      & .day-header {
+        display: grid;
+        grid-template-columns: repeat(7, minmax(0, 1fr));
+        text-align: center;
+        padding: .5rem 0;
+      }
+
+    }
+
+    & .calendar-data {
+      display: grid;
+      grid-template-columns: repeat(7, minmax(0, 1fr));
+      grid-template-rows: repeat(5, minmax(0, 1fr));
+      grid-column-gap: 0;
+      grid-row-gap: 0;
+      color: $calendar-day-text-color;
+      background: $calendar-day-bg-color;
+
+      & .grid-date-cell {
+        display: block;
+        position: relative;
+        height: 7rem;
+        padding: 0.5rem;
+        border: 1px solid $calendar-border-color;
+        overflow-y: auto;
+        font-size: 90%;
+        line-height: 1.2;
+
+        & ul {
+          list-style: none;
+        }
+
+        & li {
+          list-style-position: inside;
+          padding: 0.15rem;
+
+          &:hover {
+            color: $calendar-hover-color;
+            background: $calendar-hover-bg-color;
+          }
+        }
+
+        & p {
+          width: 1rem;
+          text-align: right;
+          width: 100%;
+          font-weight: bold;
+        }
+      }
+    }
+  }
