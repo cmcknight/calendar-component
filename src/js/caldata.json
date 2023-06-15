@@ -1,0 +1,146 @@
+[
+    {
+        "kind": "calendar#event",
+        "etag": "\"3369920153862000\"",
+        "id": "ep14g7nfs9f7eo2gsja2a0phdi_20230603T170000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=ZXAxNGc3bmZzOWY3ZW8yZ3NqYTJhMHBoZGlfMjAyMzA2MDNUMTcwMDAwWiBmYXJtZXJmcm9nLm9yZ181OTBic3JiM2I2M3BmYzZtdTIyc3JmdXJ1Y0Bn",
+        "created": "2020-01-06T04:17:50.000Z",
+        "updated": "2023-05-24T20:27:56.931Z",
+        "summary": "Work Party at Paradise",
+        "description": "<p><b>Paradise Farm is closed. Join us at the first ever City of Snohomish Pride where we are going to be in the Parade.</b></p>",
+        "location": "23210 Paradise Lake Rd, Woodinville, WA 98077, USA",
+        "creator": {
+            "email": "zsofia@farmerfrog.org"
+        },
+        "organizer": {
+            "email": "farmerfrog.org_590bsrb3b63pfc6mu22srfuruc@group.calendar.google.com",
+            "displayName": "farmerfrog.org - Upcoming Events",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-06-03T10:00:00-07:00",
+            "timeZone": "America/Los_Angeles"
+        },
+        "end": {
+            "dateTime": "2023-06-03T14:00:00-07:00",
+            "timeZone": "America/Los_Angeles"
+        },
+        "recurringEventId": "ep14g7nfs9f7eo2gsja2a0phdi_R20210717T170000",
+        "originalStartTime": {
+            "dateTime": "2023-06-03T10:00:00-07:00",
+            "timeZone": "America/Los_Angeles"
+        },
+        "iCalUID": "ep14g7nfs9f7eo2gsja2a0phdi_R20210717T170000@google.com",
+        "sequence": 1,
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3252219767470000\"",
+        "id": "ep14g7nfs9f7eo2gsja2a0phdi_20230610T170000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=ZXAxNGc3bmZzOWY3ZW8yZ3NqYTJhMHBoZGlfMjAyMzA2MTBUMTcwMDAwWiBmYXJtZXJmcm9nLm9yZ181OTBic3JiM2I2M3BmYzZtdTIyc3JmdXJ1Y0Bn",
+        "created": "2020-01-06T04:17:50.000Z",
+        "updated": "2021-07-12T17:11:23.735Z",
+        "summary": "Work Party at Paradise",
+        "description": "<p><b>COVID-19 update: please contact us if you are interested in volunteering since our processes can shift quickly during the outbreak. Because we service many people and some cannot receive vaccination or have serious health concerns, we are still requiring that our volunteers wear masks even if they are fully vaccinated. Stay healthy!</b></p><p>Farmer Frog's HQ is at Paradise Farm. This beautiful site is considered Sacred for thousands of years and was used as a farm since the 1870s. We are restoring, repairing the structures and the forest and building modern permaculture based systems. Volunteers help with building or maintaining the gardens: weeding, moving compost, spreading mulch, watering, planting new crops, harvesting existing crops, helping with livestock, aquaponic systems, and more. No experience is necessary, we encourage you to bring your talents and tell us how you would like to help bring your community together around healthy, local food! Generally we are open to the public 10-2 on Saturday afternoons or by appointment during the weekdays. <br><br>Our gate opens from the Paradise Valley Conservation Area trailhead parking lot. Drive in on the long gravel driveway and park on the right side by the other vehicles. Best if you bring your work gloves, wear closed toe shoes and dress for the weather.&nbsp;&nbsp;</p>",
+        "location": "23210 Paradise Lake Rd, Woodinville, WA 98077, USA",
+        "creator": {
+            "email": "zsofia@farmerfrog.org"
+        },
+        "organizer": {
+            "email": "farmerfrog.org_590bsrb3b63pfc6mu22srfuruc@group.calendar.google.com",
+            "displayName": "farmerfrog.org - Upcoming Events",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-06-10T10:00:00-07:00",
+            "timeZone": "America/Los_Angeles"
+        },
+        "end": {
+            "dateTime": "2023-06-10T14:00:00-07:00",
+            "timeZone": "America/Los_Angeles"
+        },
+        "recurringEventId": "ep14g7nfs9f7eo2gsja2a0phdi_R20210717T170000",
+        "originalStartTime": {
+            "dateTime": "2023-06-10T10:00:00-07:00",
+            "timeZone": "America/Los_Angeles"
+        },
+        "iCalUID": "ep14g7nfs9f7eo2gsja2a0phdi_R20210717T170000@google.com",
+        "sequence": 1,
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3252219767470000\"",
+        "id": "ep14g7nfs9f7eo2gsja2a0phdi_20230617T170000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=ZXAxNGc3bmZzOWY3ZW8yZ3NqYTJhMHBoZGlfMjAyMzA2MTdUMTcwMDAwWiBmYXJtZXJmcm9nLm9yZ181OTBic3JiM2I2M3BmYzZtdTIyc3JmdXJ1Y0Bn",
+        "created": "2020-01-06T04:17:50.000Z",
+        "updated": "2021-07-12T17:11:23.735Z",
+        "summary": "Work Party at Paradise",
+        "description": "<p><b>COVID-19 update: please contact us if you are interested in volunteering since our processes can shift quickly during the outbreak. Because we service many people and some cannot receive vaccination or have serious health concerns, we are still requiring that our volunteers wear masks even if they are fully vaccinated. Stay healthy!</b></p><p>Farmer Frog's HQ is at Paradise Farm. This beautiful site is considered Sacred for thousands of years and was used as a farm since the 1870s. We are restoring, repairing the structures and the forest and building modern permaculture based systems. Volunteers help with building or maintaining the gardens: weeding, moving compost, spreading mulch, watering, planting new crops, harvesting existing crops, helping with livestock, aquaponic systems, and more. No experience is necessary, we encourage you to bring your talents and tell us how you would like to help bring your community together around healthy, local food! Generally we are open to the public 10-2 on Saturday afternoons or by appointment during the weekdays. <br><br>Our gate opens from the Paradise Valley Conservation Area trailhead parking lot. Drive in on the long gravel driveway and park on the right side by the other vehicles. Best if you bring your work gloves, wear closed toe shoes and dress for the weather.&nbsp;&nbsp;</p>",
+        "location": "23210 Paradise Lake Rd, Woodinville, WA 98077, USA",
+        "creator": {
+            "email": "zsofia@farmerfrog.org"
+        },
+        "organizer": {
+            "email": "farmerfrog.org_590bsrb3b63pfc6mu22srfuruc@group.calendar.google.com",
+            "displayName": "farmerfrog.org - Upcoming Events",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-06-17T10:00:00-07:00",
+            "timeZone": "America/Los_Angeles"
+        },
+        "end": {
+            "dateTime": "2023-06-17T14:00:00-07:00",
+            "timeZone": "America/Los_Angeles"
+        },
+        "recurringEventId": "ep14g7nfs9f7eo2gsja2a0phdi_R20210717T170000",
+        "originalStartTime": {
+            "dateTime": "2023-06-17T10:00:00-07:00",
+            "timeZone": "America/Los_Angeles"
+        },
+        "iCalUID": "ep14g7nfs9f7eo2gsja2a0phdi_R20210717T170000@google.com",
+        "sequence": 1,
+        "eventType": "default"
+    },
+    {
+        "kind": "calendar#event",
+        "etag": "\"3252219767470000\"",
+        "id": "ep14g7nfs9f7eo2gsja2a0phdi_20230624T170000Z",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=ZXAxNGc3bmZzOWY3ZW8yZ3NqYTJhMHBoZGlfMjAyMzA2MjRUMTcwMDAwWiBmYXJtZXJmcm9nLm9yZ181OTBic3JiM2I2M3BmYzZtdTIyc3JmdXJ1Y0Bn",
+        "created": "2020-01-06T04:17:50.000Z",
+        "updated": "2021-07-12T17:11:23.735Z",
+        "summary": "Work Party at Paradise",
+        "description": "<p><b>COVID-19 update: please contact us if you are interested in volunteering since our processes can shift quickly during the outbreak. Because we service many people and some cannot receive vaccination or have serious health concerns, we are still requiring that our volunteers wear masks even if they are fully vaccinated. Stay healthy!</b></p><p>Farmer Frog's HQ is at Paradise Farm. This beautiful site is considered Sacred for thousands of years and was used as a farm since the 1870s. We are restoring, repairing the structures and the forest and building modern permaculture based systems. Volunteers help with building or maintaining the gardens: weeding, moving compost, spreading mulch, watering, planting new crops, harvesting existing crops, helping with livestock, aquaponic systems, and more. No experience is necessary, we encourage you to bring your talents and tell us how you would like to help bring your community together around healthy, local food! Generally we are open to the public 10-2 on Saturday afternoons or by appointment during the weekdays. <br><br>Our gate opens from the Paradise Valley Conservation Area trailhead parking lot. Drive in on the long gravel driveway and park on the right side by the other vehicles. Best if you bring your work gloves, wear closed toe shoes and dress for the weather.&nbsp;&nbsp;</p>",
+        "location": "23210 Paradise Lake Rd, Woodinville, WA 98077, USA",
+        "creator": {
+            "email": "zsofia@farmerfrog.org"
+        },
+        "organizer": {
+            "email": "farmerfrog.org_590bsrb3b63pfc6mu22srfuruc@group.calendar.google.com",
+            "displayName": "farmerfrog.org - Upcoming Events",
+            "self": true
+        },
+        "start": {
+            "dateTime": "2023-06-24T10:00:00-07:00",
+            "timeZone": "America/Los_Angeles"
+        },
+        "end": {
+            "dateTime": "2023-06-24T14:00:00-07:00",
+            "timeZone": "America/Los_Angeles"
+        },
+        "recurringEventId": "ep14g7nfs9f7eo2gsja2a0phdi_R20210717T170000",
+        "originalStartTime": {
+            "dateTime": "2023-06-24T10:00:00-07:00",
+            "timeZone": "America/Los_Angeles"
+        },
+        "iCalUID": "ep14g7nfs9f7eo2gsja2a0phdi_R20210717T170000@google.com",
+        "sequence": 1,
+        "eventType": "default"
+    }
+]
